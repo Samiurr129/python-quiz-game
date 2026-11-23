@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {"question": "Which Python keyword defines a function?", "options": ["func", "def", "lambda", "function"], "answer": "def"},
+    {"question": "What does len([1, 2, 3]) return?", "options": ["2", "3", "4", "Error"], "answer": "3"},
+    {"question": "Which data type is immutable?", "options": ["list", "dict", "set", "tuple"], "answer": "tuple"},
+    {"question": "Which library is most used for data frames in Python?", "options": ["NumPy", "pandas", "Matplotlib", "requests"], "answer": "pandas"},
+    {"question": "What is 7 // 2 in Python?", "options": ["3.5", "3", "4", "1"], "answer": "3"},
+    {"question": "Which SQL clause filters grouped results?", "options": ["WHERE", "ORDER BY", "HAVING", "LIMIT"], "answer": "HAVING"},
+    {"question": "What does the 'S' in CSV stand for?", "options": ["Separated", "Structured", "Sorted", "Simple"], "answer": "Separated"},
+    {"question": "Which method adds an item to the end of a list?", "options": ["add()", "push()", "append()", "insert()"], "answer": "append()"},
+    {"question": "Which chart best shows a trend over time?", "options": ["Pie chart", "Line chart", "Scatter plot", "Histogram"], "answer": "Line chart"},
+    {"question": "What value does a Python function return if it has no return statement?", "options": ["0", "False", "None", "An empty string"], "answer": "None"}
+  ]
+}
